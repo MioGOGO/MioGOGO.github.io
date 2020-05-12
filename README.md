@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 目录
 
-1. [Lift is ](/life/first) 
+1. [每天都有点小感悟](/life/first) 
 2. 占位2
 3. 占位2
 4. 占位2
